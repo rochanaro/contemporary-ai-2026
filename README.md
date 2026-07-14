@@ -24,3 +24,11 @@ By the end of this practical, you will be able to:
 - Perform zero-shot image classification using a Vision-Language Model.
 - Compare different AI paradigms for the same problem.
 - Generate speech using an open-source text-to-speech model.
+
+
+<br>
+
+---
+
+Instructor: [Rochana R. Obadage](https://rochanaro.github.io/)<br>
+Last Updated: _13th July 2026_
